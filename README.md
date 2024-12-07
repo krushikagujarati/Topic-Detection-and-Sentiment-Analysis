@@ -42,4 +42,4 @@ The dashboard will open in your default web browser at http://localhost:8501
 ```
 python -m unittest test_app.py
 ```
-
+![assets/Screenshot 2024-12-07 123323.png?raw=true "Optional Title"](https://github.com/krushikagujarati/Topic-Detection-and-Sentiment-Analysis/blob/master/assets/Screenshot%202024-12-07%20123323.png)
