@@ -37,3 +37,9 @@ The backend will start running at http://127.0.0.1:5000.
 streamlit run dashboard.py
 ```
 The dashboard will open in your default web browser at http://localhost:8501
+
+**To run the Backend Tests, Navigate to the flask-backend folder**
+```
+python -m unittest test_app.py
+```
+
